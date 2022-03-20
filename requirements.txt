@@ -25,4 +25,3 @@ static3==0.7.0
 toml==0.10.2
 urllib3==1.26.9
 whitenoise==6.0.0
-python 3.10.2
