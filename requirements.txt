@@ -1,7 +1,7 @@
 asgiref==3.5.0
 autopep8==1.6.0
 boto3==1.21.22
-botocore
+ botocore 1.24.22 
 certifi==2021.10.8
 charset-normalizer==2.0.12
 dj-database-url==0.5.0
@@ -16,7 +16,7 @@ jmespath==1.0.0
 Pillow==9.0.1
 psycopg2==2.9.3
 pycodestyle==2.8.0
-python-dateutil
+python-dateutil 2.8.2 
 requests==2.27.1
 s3transfer==0.5.2
 six==1.16.0
