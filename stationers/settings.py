@@ -42,6 +42,8 @@ INSTALLED_APPS = [
     'store.apps.StoreConfig',
     'users.apps.UsersConfig',
     "storages",
+    'phonenumber_field',
+    'phonenumbers',
 ]
 
 MIDDLEWARE = [
