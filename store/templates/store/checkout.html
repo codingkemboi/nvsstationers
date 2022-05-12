@@ -40,8 +40,8 @@
             <input
               class="form-control"
               type="text"
-              name="town"
-              placeholder="Town.."
+              name="location"
+              placeholder="Location (e.g Kongoni).."
             />
           </div>
         </div>
@@ -169,12 +169,12 @@
 
     var shippingInfo = {
       address: null,
-      town: null,
+      location: null,
     };
 
     if (shipping != "False") {
       shippingInfo.address = form.address.value;
-      shippingInfo.town = form.town.value;
+      shippingInfo.location = form.location.value;
     }
 
     if (user == "AnonymousUser") {
